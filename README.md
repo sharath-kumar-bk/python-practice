@@ -1,8 +1,5 @@
 # Python Practice
 
-This repository contains my Python practice programs
-and beginner-level exercises while learning Python.
-
 ## Topics Covered
 
 - Variables
@@ -14,9 +11,8 @@ and beginner-level exercises while learning Python.
 - Sets
 - Dictionaries
 - Conditional Statements
-- Loops
 
-## Purpose
+- ## Purpose
 
-I am using this repository to practice Python
-and improve my programming skills.
+This repository is used to practice Python programming
+and keep track of the Python topics I have learned.
