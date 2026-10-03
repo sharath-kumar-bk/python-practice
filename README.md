@@ -137,7 +137,7 @@
 * AI Agents
 * LLMOps / MLOps
 
-## 12. Projects 🚀
+## 12. Projects 
 
 * Python Mini Projects
 * DSA Projects
