@@ -26,8 +26,8 @@
 * String Methods✅
 * List Methods✅
 * Dictionary Methods✅
-* Exception Handling
-* File Handling
+* Exception Handling✅
+* File Handling✅
 * Modules and Packages
 
 ## 3. Object-Oriented Programming
@@ -73,9 +73,9 @@
 * Branches✅
 * Commits✅
 * Pull Requests✅
-* Merge
+* Merge✅
 * GitHub Projects
-* Build a GitHub Portfolio
+* Build a GitHub Portfolio✅
 
 ## 7. SQL & Databases
 
