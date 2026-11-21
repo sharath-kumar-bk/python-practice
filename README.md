@@ -72,10 +72,10 @@
 * Git Basics✅
 * Branches✅
 * Commits✅
-* Pull Requests✅
+* clone fork and Pull Requests✅
 * Merge✅
 * GitHub Projects
-* Build a GitHub Portfolio✅
+* Build a GitHub Portfolio
 
 ## 7. SQL & Databases
 
